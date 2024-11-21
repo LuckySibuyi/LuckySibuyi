@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>My Profile</title>
+  </head>
+  <body> 
+    
+    <div class="topnav">
+        <video autoplay muted loop id="background-video">
+            <source src="vid.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+                <a href="about.html">About me</a>
+                <a href="cv.html">Resume</a>
+        </div>
+    <br />
+    <br />
+
+    <header>
+       
+        
+        <main class="container">
+            <section class="column">
+                <div class="profile-image">
+                    <img src="profile.jpg" alt="Profile Picture">
+                </div>
+            </section>
+    
+            <section class="column">
+                    
+                    <h1>Lucky Sibuyi</h1>
+                    <span class="color-change"><p>Innovator | Technology Enthusiast | Problem Solver</p></span><br />
+                    
+    
+            </section>  
+        </main>
+    </header>
+    
+    <nav class="navbar">
+            
+        <ul class="nav-links">
+            <li><a href="mailto:lucky1sibuyi@gmail.com"><i class="fa fa-envelope" style="font-size:48px;color:rgb(199, 112, 13)"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/lucky-sibuyi-414ab5221/"><i class="fa fa-linkedin-square" style="font-size:48px;color:rgb(0, 238, 255)"></i></a></li>
+        </ul>
+        
+    </nav>
+    <h3 style="color:rgb(75, 67, 97); font-size: 27px; text-align: center;">Connect with Me</h3>
+    <hr style="width:50%;margin-left:25% ;">
+<div class="form">
+    <form class="contact-form" action="mailto:lucky1sibuyi@gmail.com" method="POST" enctype="text/plain">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Your name" required>
+
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="Your email" required>
+
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="5" placeholder="Your message" required></textarea>
+
+        <button type="submit">Send Message</button>
+    </form>
+</div>
+  </body>
+</html>

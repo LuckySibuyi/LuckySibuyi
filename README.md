@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucky Sibuyi</h1>
 <h3 align="center">A intern Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luckysibuyi&label=Profile%20views&color=0e75b6&style=flat" alt="luckysibuyi" /> </p>
+
 
 - 🔭 I’m currently working on **Todo List App**
 

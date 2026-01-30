@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **The Order Management System**
+- 🔭 I’m currently working on **freelance projects for clients**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
